@@ -1,9 +1,8 @@
 {
 "app_id": "wxb9a1a7c4c2f5b60b",
 "app_secret": "b1b00c17cc60f5785a8f5924e105ef4c",
-"template_id": "oukdF6LSNBKxvlivTqhZiam4PqQw",
-"template_id": "oukdF6M4qQdDd6LGqzTLlXWyfAxQ",
-"user": ["oukdF6LSNBKxvlivTqhZiam4PqQw"],
+"template_id": "lMb5d6WVKX0YN4TJO_lT2sR6vUbDkzGocdzTrOPw3ac",
+"user": ["oukdF6LSNBKxvlivTqhZiam4PqQw","oukdF6M4qQdDd6LGqzTLlXWyfAxQ"],
 "weather_key": "654fe91e23f44b78b0189c3021ccb1ea",
 "region": "徐州市",
 "birthday1": {"name": "郭先生", "birthday": "r2002-06-14"},
