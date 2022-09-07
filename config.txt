@@ -1,7 +1,7 @@
 {
 "app_id": "wxb9a1a7c4c2f5b60b",
 "app_secret": "b1b00c17cc60f5785a8f5924e105ef4c",
-"template_id": "oukdF6M4qQdDd6LGqzTLlXWyfAxQ",
+"template_id": "oukdF6M4qQdDd6LGqzTLlXWyfAxQ,oukdF6LSNBKxvlivTqhZiam4PqQw",
 "user": ["oukdF6LSNBKxvlivTqhZiam4PqQw"],
 "weather_key": "654fe91e23f44b78b0189c3021ccb1ea",
 "region": "徐州市",
